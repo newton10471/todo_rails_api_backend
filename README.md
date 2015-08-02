@@ -1,3 +1,5 @@
+Todo App from todomvc.com that uses a Backbone.js frontend and Rails-API backend, as outlined in [HOW TO BUILD A RAILS 5 API ONLY AND BACKBONE APPLICATION](http://wyeworks.com/blog/2015/6/11/how-to-build-a-rails-5-api-only-and-backbone-application)
+
 ## README
 
 This README would normally document whatever steps are necessary to get the
